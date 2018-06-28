@@ -12,7 +12,7 @@ import Navbar from './Navbar'
 export default {
   name: 'app',
   components: {
-    NavBar
+    Navbar
   },
   data () {
     return {
